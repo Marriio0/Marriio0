@@ -35,7 +35,7 @@ I'm a **full-stack web developer** and the **IT Manager (Responsable SI) at CLIX
 |:---|:---|:---|:---:|
 | 🎓 **CLIXA Institute** | Online training platform for professionals across Africa: program catalog, enrollment, online certificate verification | Next.js · TypeScript | [🌐 Live](https://www.clixa.africa) |
 | 💼 **CLIXA Consulting** | Website of CLIXA's consulting branch: ERP Odoo, digitalization, AMOA | React · TypeScript · Tailwind | [🌐 Live](https://www.clixaconseil.com) · [💻 Code](https://github.com/clixatravo/clixa-consulting) |
-| 🎬 **Netfarjo** | Movie & series discovery app with search, watchlist and an Android build | Spring Boot · Neo4j · React · TS | [🌐 Live](https://netfarjo.vercel.app) · [💻 Code](https://github.com/Marriio0/netfarjo) |
+| 🎬 **Netfarjo** | Movie & series discovery app with search, watchlist and an Android build | Spring Boot · Neo4j · React · TS | [🌐 Live](https://netfarjo-gamma.vercel.app) · [💻 Code](https://github.com/Marriio0/netfarjo) |
 | 📑 **PFE-Manager** | Platform to manage final-year project reports: versions, comments, validation | Laravel · React | [🌐 Live](https://testwebsitepfe.vercel.app) · [⚙️ API](https://github.com/Marriio0/PFE-Manager) · [🖥️ Front](https://github.com/Marriio0/pfe-manager-frontend) |
 
 ## 💼 Experience
