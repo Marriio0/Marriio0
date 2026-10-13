@@ -15,7 +15,7 @@ I'm a **full-stack web developer** and the **IT Manager (Responsable SI) at CLIX
 | | |
 |---|---|
 | 🏢 **Now** | IT Manager at CLIXA: I built and run [clixa.africa](https://www.clixa.africa) and [clixaconseil.com](https://www.clixaconseil.com) |
-| 🎓 **Education** | DUT in Computer Engineering (EST Fkih Ben Salah) · Computer Science at SUPTECH |
+| 🎓 **Education** | DUT in Computer Engineering (EST Fkih Ben Salah) · Computer Science, cybersecurity track, at SUPTECH |
 | 🔐 **Security** | Web penetration testing and vulnerability assessment (internship report with CVSS-rated findings) |
 | 🌍 **Open to** | Full-time roles in Morocco, remote positions abroad, freelance web projects |
 
